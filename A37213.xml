@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief manifestation, or, The state and case of the Quakers presented to all people, but especially to merchants, owners (and masters) of ships, and mariners : also to all planters or occupiers of lands in the English and forreign plantations : shewing the (causless) cause of their present and cruel sufferings ... hereby warning them all not to joyn hands against the innocent nor willingly suffer their ships ... to transport (nor to buy) any of them for slaves ... / written on behalf of the suffering people of God (called Quakers), ... the first day of the eighth month, 1664 [by] T.D.</title>
+            <author>T. D. (Thomas Davenport)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37213</idno>
+            <idno type="STC">Wing D372</idno>
+            <idno type="STC">ESTC R28586</idno>
+            <idno type="EEBO-CITATION">10684969</idno>
+            <idno type="OCLC">ocm 10684969</idno>
+            <idno type="VID">45488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45488)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1401:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief manifestation, or, The state and case of the Quakers presented to all people, but especially to merchants, owners (and masters) of ships, and mariners : also to all planters or occupiers of lands in the English and forreign plantations : shewing the (causless) cause of their present and cruel sufferings ... hereby warning them all not to joyn hands against the innocent nor willingly suffer their ships ... to transport (nor to buy) any of them for slaves ... / written on behalf of the suffering people of God (called Quakers), ... the first day of the eighth month, 1664 [by] T.D.</title>
+                  <author>T. D. (Thomas Davenport)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Doubtfully attributed to Thomas Davenport by BM &amp; by Smith's Catalogue of Friends' books, I, 506."--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Freedom of religion --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45488:1"/>
+            <pb facs="tcp:45488:1"/>
+            <p> A BRIEF MANIFESTATION OR The STATE and CASE of the <hi>Quakers</hi> preſented to all people, but eſpecially to <hi>Merchants, Owners</hi> (and <hi>Maſters)</hi> of Ships, and <hi>Mariners;</hi> alſo to all <hi>Planters</hi> or Occupiers of Lands in the <hi>Engliſh</hi> and <hi>Forreign Plantations.</hi>
+            </p>
+            <p>Shewing the (cauſleſs) Cauſe of their preſent and cruel Sufferings, from the hands of their own Countrymen and Fellow-Citizens of <hi>London.</hi>
+            </p>
+            <p>Hereby warning them all, not to joyn hands againſt the Inno<g ref="char:EOLhyphen"/>cent, nor willingly ſuffer their Ships (to be imployed) to Tranſport (nor to buy) any of them (for <hi>Slaves)</hi> to the ſe<g ref="char:EOLhyphen"/>parating of Husband from Wife, Parents from Children, <hi>&amp;c.</hi> to the Ruine and Deſolation of many Families, and to the provoking the Anger of the Lord againſt you and your Fa<g ref="char:EOLhyphen"/>milies, and to ſmite the Land with a Curſe.</p>
+            <q>
+               <hi>But do ye unto all men as you would they ſhould do unto you, &amp;c.</hi>
+            </q>
+            <p>Written on the behalf of the Suffering-People of God (called <hi>Quakers)</hi> and of the Teſtimony which they hold.</p>
+            <p>The Firſt day of the Eighth Month, 1664. <hi>T. D.</hi>
+            </p>
+            <p>Printed at <hi>London,</hi> in the year 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:45488:2" rendition="simple:additions"/>
+            <head>
+               <hi>A Brief</hi> MANIFESTATION <hi>to Merchants, Seamen, and Planters, &amp;c.</hi>
+            </head>
+            <p>KNow ye then, that that God who created the Heavens and the Earth, the Omipotent and Almighty <hi>JEHOVAH,</hi> and Lord of Hoſts, whoſe all things are, and for whoſe Service they were created; who giveth breath and being to all, and in whoſe hands and at whoſe diſpoſe is your Life and the Lives of all Mankind; who numbereth your dayes, which are as a ſpan, and paſs away ſwifter than a Weavers ſhuttle, or as a Poſt that tarrieth not; who ſaith to man, <hi>Return to thy duſt, and he is no more:</hi> And this is He we own to be our God, whom we ſerve and worſhip in the Spirit of his Son, the Light of the VVorld, to whom all Judg<g ref="char:EOLhyphen"/>ment is committed, that men might honour the Son, as they honour the Father who is God over all, bleſſed for evermore.</p>
+            <p>And this is he whom we have waited for, and his Light hath ſhone into our hearts, to give us the knowledge of the Light of the Goſpel in the face of Chriſt Jeſus, and by believing in his Light we come to a true ſight of our ſtates, and our hearts were ript open, and our iniquities were made manifeſt unto us, and the Books were opened, and the Earth diſcloſed, and the Dead appeared, and the Judgment was ſet up, and we were then judged, every man according to his works, and the things that were written in thoſe Books; And then we knew him to be dreadful indeed (in his juſt Judgments) againſt that nature which had tranſgreſſed; and his flame was kindled in our hearts, and began to take hold of that which was for the fire, and his Sword was drawn to cut down that which ſtood in the way, and turned every way to keep the Tree of Life; ſo that we in this unclean ſtate could not come unto it, though fain would we have lived here, and loth we were to part with that which was ſo near and dear unto us, to wit, the wiſdom, honour, and glory of this preſent world, which was as ſo many deaths to us to part with, and we would fain have been Heirs of two Kingdoms: but the Light let us ſee that we muſt deny our ſelves in all that ſo nearly concerned us, and take up our Croſs daily, and follow him our Guide and Leader, though to the
+<pb n="3" facs="tcp:45488:2" rendition="simple:additions"/> loſs of all. O what thoughts of heart, tumblings of mind, noiſe of wars and rumours of wars (which is not to be expreſſed) was then in our hearts!</p>
+            <p>At laſt to the Light and Power of God our hearts did bow, and became obedient; then a ſeparation began to be made between the Good and the Evil, and we became judged according to men in the fleſh, that we might be ſaved according to God in the Spirit.</p>
+            <p>Now the Separation being thus made, and the true Judgment ſet up in our hearts, we could not, as in times paſt, run with the wicked into vanity and exceſs, neither could we joyn with the Superſtitious and Idolaters in their falſe wayes, worſhips and cuſtoms, but have been and are ſtill made willing to bear our Teſtimony publickly a<g ref="char:EOLhyphen"/>gainſt them all, both by word and converſation, &amp;c.</p>
+            <p>And though we have been obedient to the Powers that have been (and to theſe that now are) in all juſt and righteous things, keeping a good <hi>Conſcience void of offence both to God and man;</hi> and for this cauſe we labour diligently and painfully in our Callings, that we may be ſerviceable in our Native Country, where our God hath placed us, having ſomething (and being ready) to miniſter to them that ſtand in need of our help, that thereby we might be a good ſavour to all.</p>
+            <p>For which cauſe alſo, <hi>we pay Tribute to whom Tribute is due,</hi> and have ſo done to all the Powers (ſince we were a People) declaring thereby <hi>our owning of Magiſtracy,</hi> being willing to ſupport it in all juſt and right things, though ſome have aſperſed and accuſed us of the contrary.</p>
+            <p>And thus in all things that pertain to Life and Godlineſs, we have endeavoured to live peaceably and honeſtly with all men; and this we declare unto you, that neither the former Powers, nor theſe pre<g ref="char:EOLhyphen"/>ſent in Power, neither could, nor can they now, juſtly accuſe us of <hi>plotting</hi> or <hi>contriving</hi> againſt them, neither of <hi>any Sedition</hi> or <hi>ſeditious Practices</hi> towards any of them, as hereby we do call to record the Lord God Almighty, to whom we appeal for Righteous Judgment in the caſe between us. Notwithſtanding we have ſo behaved our ſelves, and that our Adverſaries can lay nothing (juſtly) to our charge; yet behold and ſee how we have been perſecuted and cruel<g ref="char:EOLhyphen"/>ly intreated by them all, but eſpecially at this day: O how are we beaten in the ſtreets and places of our Meetings! how is our hair plucked off our heads! how are we kick'd and pinch'd on the arms,
+<pb n="4" facs="tcp:45488:3" rendition="simple:additions"/> and ſome women pinched and ſmitten on their tender breſts, to their great harm! how are we packed into cloſe and naſty Priſons, near three hundred at one time in one Priſon! and how have ſome of our Friends been beaten, &amp; <hi>Felons</hi> ſuffered to abuſe them there! how have ſome of us been taken forcibly from our Brethren, where we have been met together in our Priſon-houſe, and threatned, and put in<g ref="char:EOLhyphen"/>to the Hole or Dungeon! how have ſome of us been taken out of one Priſon-room, and caſt into deep and diſmal Holes, where we have been in danger of our lives, by reaſon of a corrupt unclean Priſoner who lay there, even worſe and more nauſeous than any filthy Car<g ref="char:EOLhyphen"/>rion or Excrement whatſoever, a place not fit for Swine! O how are we proſecuted with violence at their Seſſions, and the Jurors and Peoples Underſtandings endeavoured to be poiſoned, and They in<g ref="char:EOLhyphen"/>cenſed againſt us, by Speeches made to render us even as the worſt of men, as ſee the Book entituled, <hi>The Innocency and Conſcientiouſneſs of the Quakers aſſerted and cleared, in anſwer to Judge</hi> Keeling's <hi>Speech!</hi> How are the Jurors that ſerved for Felons and Murderers changed, and others impanelled which may ſerve for their purpoſe! how are others brow-beaten and threatned, which cannot in good conſcience (the Evidence not being clear) anſwer that ſpirit of Cruelty in our Perſecutors, to bring us in <hi>Guilty!</hi> how are many of us, thorow un<g ref="char:EOLhyphen"/>juſt proceedings, ſentenced to Tranſportation and Exilement from our Native Country, Wives, Children, and deareſt Relations, into Forreign Parts and Places of the World, there to ſeek our bread amongſt ſtrangers! Much more might we ſay of the Cruelty and Oppreſſions we meet with from ſome fierce and forward ſpirits, who are Miniſters of the Laws both Civil and Eccleſiaſtical (as they are called) who ſummon us to their Courts for not coming to their Pa<g ref="char:EOLhyphen"/>riſh Worſhips, fining and impriſoning us in many parts of this Na<g ref="char:EOLhyphen"/>tion, endeavouring thereby to vex us and to weary us out, and force us to conform to that which our God hath ſhewed us he ab<g ref="char:EOLhyphen"/>hors.</p>
+            <p>And now Friends, what is the cauſe of all this Cruelty that's thus daily exerciſed upon us, even for no other cauſe but for keeping a good Conſcience towards God, who hath loved and purchaſed us with a great price, even with his own Blood, that we ſhould be no longer our own, but the Lord's, who hath endeared us to him, and en<g ref="char:EOLhyphen"/>gaged our hearts to bow to and worſhip him, and in whoſe Fear we
+<pb n="5" facs="tcp:45488:3" rendition="simple:additions"/> cannot but meet together to wait upon him, and to ſeek his Face more and more, whoſe Preſence hath ſo often refreſhed and gladded our hearts in our Aſſemblings and Meetings together: And by this our meeting together we bear our Teſtimony for the Lord and his Truth, thereby declaring to all men that we own him alone to be our Law-giver, our King and Guide (in all matters that concern his Worſhip) and he doth and will come and ſave us.</p>
+            <p>And alſo, by this our meeting together we exhort one another, ſtrengthen and build up one another in our moſt holy Faith, praying in the holy Ghoſt with all prayers and ſupplications for Magiſtrates and for all men, that they with us may come to know (&amp; be obedient to) Chriſt Jeſus the Light, that lightneth every man that cometh into the world, and by his Blood (which is his Life) may come to re<g ref="char:EOLhyphen"/>ceive remiſſion of ſins, and an Inheritance among the Saints in Light.</p>
+            <p>And likewiſe by this our meeting together, we find an Increaſe in the pure Love (which thinketh no evil) one to another, and to all men, yea to our very enemies (deſiring from the bottom of our hearts they may repent them of all their Sins, and of all the Blood, Cruel<g ref="char:EOLhyphen"/>ties and Perſecutions they have unjuſtly committed upon and againſt us) of all which things we are juſtified of the Lord, and have an aſſurance that it's well-pleaſing and acceptable to him, as we abide in the Fear of his moſt holy Name.</p>
+            <p>Which holy practice of <hi>meeting together</hi> was required of, and found in the People of God of old, as in <hi>Mal.</hi> 3. 16. <hi>Then thoſe that feared the Lord ſpake often one to another, and the Lord hearkened and heard it, and a Book of Remembrance was written before him, for them that feared the Lord, and thought upon his Name.</hi> And ſo was the Apoſtle's Pra<g ref="char:EOLhyphen"/>ctice and Exhortation to the Saints, <hi>Not to forſake the aſſembling of themſelves together, as the manner of ſome</hi> (then was, and now) <hi>is, but ſo much the more (to exhort one another) as you ſee the Day approaching.</hi> Which holy Practices we own and do witneſs, and that <hi>as the Day ap<g ref="char:EOLhyphen"/>proaches</hi> (to wit) the Light ariſeth, and draweth nearer and nearer to us by its heat, vertue and ſplendor, Even ſo much the more are we enclined and engaged in our hearts to meet and aſſemble together, to wait upon the Lord, till he cauſeth it to ariſe, and ſhine, and over<g ref="char:EOLhyphen"/>ſpread the whole Earth.</p>
+            <p>And for theſe Cauſes, as aforeſaid, and for ſuch holy Ends, do we meet together, and for no other; God Almighty is our Record that
+<pb n="6" facs="tcp:45488:4" rendition="simple:additions"/> we ſpeak the truth unfeignedly from our hearts, and not as we have been falſly accuſed and reported of (by time-ſervers and men-plea<g ref="char:EOLhyphen"/>ſers) for meeting <hi>ſeditiouſly to plot,</hi> or <hi>wickedly to contrive Inſurrections, in contempt of the King and his Laws, and to the breach of the Publick Peace;</hi> and that we <hi>are an Obſtinate People, and will not be ſubject to Authority.</hi>
+            </p>
+            <p>All theſe and many more the like ſlanders and falſe accuſations do we daily undergo, by ſome that are fierce and cruel in their ſpirits a<g ref="char:EOLhyphen"/>gainſt us, endeavouring to incenſe the King againſt us, and to pro<g ref="char:EOLhyphen"/>cure Laws to be made to deſtroy us, and that all people may even deliver us up to the ſpoil, as a people not fit to live amongſt them: But we believe the King hath a Witneſs in his Conſcience, which (oft-times) ſpeaks for us <hi>(viz.)</hi> that we are not ſuch a People as re<g ref="char:EOLhyphen"/>ported of; and he hath not approved of ſome Cruelties that have been of late exerciſed upon us. And as for the People which are our Neighbours, and know us (with whom we do converſe) will juſti<g ref="char:EOLhyphen"/>fie us, and ſay we are a very diligent and peaceable People, and do much pitty us; ſaying, <hi>We deſerve no ſuch thing at their hands.</hi>
+            </p>
+            <p>Yet notwithſtanding all the Cruelties that are exerciſed upon us, if our own perſons were only concerned, we could hold our peace; but in as much as the ſpreading of the Everlaſting Truth, and honourable Name of the Lord God Everlaſting, is deeply concerned; and that the Blood-guiltineſs of many cries ſo loud for Vengeance (which is rea<g ref="char:EOLhyphen"/>dy to be poured forth;) And alſo, that all who have yet had no hand in ſuch Cruelties, might hereby be warned; WE from theſe deep and weighty <hi>Conſiderations,</hi> are moved in our hearts to lay theſe things before you, that if it may be, a ſtop might be put to any further exer<g ref="char:EOLhyphen"/>ciſe thereof; and that neither ye who are <hi>Merchants,</hi> or <hi>Marriners,</hi> or any other, might have any hand in the execution thereof in any meaſure, either by permitting your Ships, or Seamen, to be the <hi>Tranſ<g ref="char:EOLhyphen"/>porters</hi> of the <hi>Innocent,</hi> or any other wayes of Cruelty whatſoever.</p>
+            <p>Now Friends, having thus laid our Caſe before you, and opened our hearts thus unto you concerning our <hi>Principles, Practices</hi> and <hi>Profeſ<g ref="char:EOLhyphen"/>ſions</hi> towards God, and our <hi>Demeanours</hi> and <hi>Behaviours</hi> towards the King and his Government, with our <hi>Deportment</hi> and <hi>Converſation</hi> to<g ref="char:EOLhyphen"/>wards all men; alſo ſomething of our <hi>Sufferings,</hi> and the <hi>Innocent Cauſes</hi> thereof, all which will certainly plead for us; and therefore to God's Witneſs in all your Conſciences do we appeal for true
+<pb n="7" facs="tcp:45488:4" rendition="simple:additions"/> Judgment in this caſe; that is to ſay, whether we have deſerved ſuch Cruelties to be inflicted upon us, who are an Innocent People, and guilty of the breach of no Juſt Law.</p>
+            <p>Neither are we guilty of the breach of this Act upon pretence of which we now ſuffer; which Act is to ſuppreſs <hi>Seditious Conventicles,</hi> and therefore not Innocent Meetings, and <hi>to prevent the growth of ſuch Sectaries, who at their Meetings contrive Inſurrections, &amp;c.</hi> as by the Title and Preamble (which is the Reaſon or Key) thereof, ap<g ref="char:EOLhyphen"/>pears; none of which things yet to this day have been proved againſt us, nor the leaſt ſhew of any ſuch thing, though it hath been put up<g ref="char:EOLhyphen"/>on them to prove, and their VVitneſſes have been asked what we were doing in our Meetings, and whether they either ſaw or heard any thing tending to Sedition? they have teſtified for us, and anſwered, <hi>Nay,</hi> we were peaceable, and ſo could not be guilty of the breach of this very Act, under pretence of which we now ſuffer. Yet notwith<g ref="char:EOLhyphen"/>ſtanding, by the brow-beating and threatning both of the Grand and Petty Jurors, ſome Jurors have been over-awed, and have bowed to their wills ſo far as to find the Bills againſt us, and others, to find us guilty; though ſome other Jurors, that were more wiſe and valiant for the Truth, not finding ſufficient Evidence to prove their Indict<g ref="char:EOLhyphen"/>ments, and alſo nothing appearing to them to make us Tranſgreſſors, by any thing we either did or ſaid in our Meetings that tended to Se<g ref="char:EOLhyphen"/>dition or Inſurrection (againſt which the Act was only made) and falſe witneſs being alſo born, they could not in good conſcience find us guilty of the Indictment, though ſome of them therefore received frowns and threats, and are bound over to give an account at the <hi>Kings-Bench Bar</hi> the next <hi>Term:</hi> but ſome of the Priſoners not finding freedom in themſelves to anſwer their form of pleading, <hi>Guilty or not guilty,</hi> (their Indictments being indirect) and queſtions being put to enſnare them, as alſo ſome not being acquainted with their way of pleading) they readily pronounced their unjuſt Sentence of <hi>Tranſ<g ref="char:EOLhyphen"/>portation</hi> againſt them, ſave only the VVomen that have Husbands are committed to the <hi>Houſe of Correction,</hi> ſome for the ſpace of <hi>eleven months,</hi> and others for <hi>twelve months.</hi> Now ſeeing their Actings are ſo contrary to Juſtice and Right, and alſo to the late Act, for you or any of you to put this Illegal and Unjuſt Sentence in Execution, by Tranſporting any of us, would be very hard meaſure, and not ſafe for you, nor to the Kings honour.</p>
+            <pb n="8" facs="tcp:45488:5" rendition="simple:additions"/>
+            <p> And further, If any man amongſt you, through a wicked covetouſ<g ref="char:EOLhyphen"/>neſs ſhould tranſport any of us at his own charge, with intent to ſell us for Slaves or Labourers for his unrighteous gain, let ſuch know that Gods wrath will ſmoke againſt that perſon; for we are the Lords Free-men, and in his Fear and Dread we tell that man, we cannot anſwer his ſpirit nor ſatisfie his luſts, in ſtooping to that ſlavery he intends us for, many of us not being educated in ſuch a way of drud<g ref="char:EOLhyphen"/>gery and ſlavery, ſo that his evil ends will be croſſed, who would think to make a gain of us by Servitude or Labour, who are God's Free-men, to whom we have and ſhall commit our Cauſe, and the care of our Bodies, as our Souls, whatever we may ſuffer from or by ſuch wicked perſon, aſſuredly knowing that our God whom we ſerve is able to deliver us, from this Oppreſſion and Bondage alſo; but if he doth not, yet know, to that ſpirit we cannot bow.</p>
+            <p>And of this our cauſleſs (though cruel) Sufferings (with our Reſolution herein) we do purpoſe to acquaint, and do hereby inform and acquaint all the Plantations (where this may come) to the end they may be forewarned and thereby fore-armed, and not to be ſurpriſed or deceived (as the late Maſter of a Ship was in a caſe of tranſporting ſome of us) by buying any of us for their Servants, which will not be for their profit; and we hope they will be adviſed by us, eſpecially ſeeing their own intereſt is ſo nearly concerned: And it is the deſire of our hearts they may conſider our Caſe and Condition herein declared, and be warned by us, who in<g ref="char:EOLhyphen"/>tend this our <hi>Manifeſtation</hi> for them as well as for any others, in that wherein they may be concerned.</p>
+            <p>And ſo having in the uprightneſs and honeſty of our hearts, as before the Lord, cleared our ſelves, in thus clearly ſtating our Caſe, and the (cauſleſs) Cauſe of our Sufferings, with our holy and firm Reſolution to continue in our duty to follow the Lord, and not (at all) to bow to the ſpirit of Wickedneſs, Cruelty and Oppreſſion in any whatſoever.</p>
+            <p>Our deſires therefore are renewed unto you again, that you would ſeriouſly weigh, ponder and conſider what is here declared in this our <hi>Manifeſtation,</hi> and be warned thereby not to joyn hands with Oppreſſion under any colour or pretence whatſoever; for why ſhould ye be found perſecuting the Innocent, and fighting againſt the Lord, who is too ſtrong for you?</p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>And moreover, It will endanger the Lives of many tender people, to be tranſ<g ref="char:EOLhyphen"/>ported into other Countries beyond the Seas, from Relations, Families and Native Country, beſides the great ſufferings that ſuch a thing may bring upon their ten<g ref="char:EOLhyphen"/>der Wives, Children and Families, who may outwardly be expoſed to Ruine, if their Husbands and Fathers ſhould be thus forced from them, who would have taken care to maintain them; and this is the way to make many Widows and Fa<g ref="char:EOLhyphen"/>therleſs, whoſe Cryes will enter into the Ears of the Lord againſt this Cruelty and Oppreſtion.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:45488:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
